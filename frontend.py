@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8003/predict"
+API_URL = "http://127.0.0.1:8000/predict"
 
 st.title("Health Insurance Premium Prediction")
 
@@ -36,7 +36,7 @@ if st.button("Predict Premium"):
         response = requests.post(API_URL, json=input_data)
         if response.status_code == 200:
             result = response.json()
-            st.success(f"Predicted Premium Category: {result['predicted_category']}")
+            st.success(f"Predicted Premium Category: {result}")
         else:
             st.error("Error in prediction. Please try again.")
     except requests.RequestException as e:
