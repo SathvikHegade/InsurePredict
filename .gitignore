@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.pyc
+models/model.pkl
+.env
+.DS_Store
+.vscode/
+*.log
