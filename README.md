@@ -96,5 +96,5 @@ InsurePredict/
 
 **⭐ Star this repo if you found it useful!**
 
-<sub>Built with ❤️ by <a href="https://github.com/SathvikHegade">Sathvik Hegde</a></sub>
+<sub>Built by <a href="https://github.com/SathvikHegade">Sathvik Hegde</a></sub>
 </div>
