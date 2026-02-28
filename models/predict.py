@@ -1,9 +1,11 @@
 import pickle
 import pandas as pd
+import os
 
 
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "model.pkl")
 
-with open(r"D:\ML_projects\ML_API\models\model.pkl", 'rb') as f:
+with open(MODEL_PATH, 'rb') as f:
     model = pickle.load(f)
 
 
