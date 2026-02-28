@@ -30,7 +30,7 @@ def predict_premium(data: UserInput):
         'income_lpa': data.income_lpa,
         'occupation': data.occupation
     }
-
+#exception handling to catch any errors during prediction and return them as JSON response
     try:
 
         prediction = predict_output(user_input)
