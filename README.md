@@ -82,9 +82,7 @@ InsurePredict/
 
 | Metric | Value |
 |--------|-------|
-| **R² Score** | 0.92 |
-| **MAE** | 0.08 |
-| **RMSE** | 0.12 |
+| **Accuracy** | 85% |
 
 ## 📬 Contact
 
