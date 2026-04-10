@@ -86,7 +86,7 @@ InsurePredict/
 
 ## 📬 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-SathvikHegade-181717?logo=github)](https://github.com/SathvikHegade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathvik_Hegde-0A66C2?logo=linkedin)](https://linkedin.com/in/sathvikhegde)
+[![GitHub](https://img.shields.io/badge/GitHub-SathvikHegade-181717?logo=github)](https://github.com/SathvikHegade) [![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/sathvik-hegade-76112b330?logo=linkedin)](https://linkedin.com/in/sathvikhegde)
 
 ---
 
